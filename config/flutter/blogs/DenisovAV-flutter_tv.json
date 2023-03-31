@@ -1,0 +1,13 @@
+{
+  "expertise": "ADVANCED",
+  "version": 1,
+  "source": "other",
+  "authorIds": [],
+  "author": "Aleksandr Denisov",
+  "title": "GitHub - DenisovAV/flutter_tv",
+  "link": "https://github.com/DenisovAV/flutter_tv",
+  "tags": [
+    "mobile"
+  ],
+  "description": "The example of application for TV platform with Flutter (including Apple TV)"
+}

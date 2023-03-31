@@ -11,5 +11,6 @@
   "tags": [
     "mobile",
     "library"
-  ]
+  ],
+  "description": "This blog post shows you how to build a MLOps system within VertexAI."
 }
